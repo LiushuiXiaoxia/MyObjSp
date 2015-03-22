@@ -5,10 +5,10 @@ MyObjSp is like [hawk](https://github.com/orhanobut/hawk)
 
 I just rewrite hawk,becase I don't like it style for use.
 
->**MyObjSp uses:**
->gson to serializable
->des to crypto
->SharedPreferences for the storage
+MyObjSp uses:
+* gson to serializable
+* des to crypto
+* SharedPreferences for the storage
 
 ##Gradle dependency
 ```
