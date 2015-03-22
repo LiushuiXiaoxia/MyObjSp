@@ -19,8 +19,18 @@ android {
     }
 }
 
+repositories {
+    maven {
+        url "https://raw.githubusercontent.com/LiushuiXiaoxia/MyCommons/master/MyCommonsAndroid/repository/"
+    }
+}
+
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:21.0.3'
+
+    // mycommons
+    compile 'org.liushui:mycommons.android:1.0.1'
+
     compile project(':MyObjSpLib')
 }

@@ -1,0 +1,8 @@
+/Users/xiaqiulei/Documents/code/github/MyObjSp/app/build/intermediates/classes/debug
+/Users/xiaqiulei/Documents/code/github/MyObjSp/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-773028ebd07efc50db490d43d41cdfaf6ffef021.jar
+/Users/xiaqiulei/Documents/code/github/MyObjSp/app/build/intermediates/pre-dexed/debug/classes-62af41c907087eec8bee3cee0cfe5ad7d3517789.jar
+/Users/xiaqiulei/Documents/code/github/MyObjSp/app/build/intermediates/pre-dexed/debug/classes-686806493e3ac561bb1fa78ba59b73dda822c21f.jar
+/Users/xiaqiulei/Documents/code/github/MyObjSp/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-3543ae92203ed792c3bca65504bf34b94fa244e4.jar
+/Users/xiaqiulei/Documents/code/github/MyObjSp/app/build/intermediates/pre-dexed/debug/gson-2.3.1-6084910335000ed785fd2b7c6c563527fd908b74.jar
+/Users/xiaqiulei/Documents/code/github/MyObjSp/app/build/intermediates/pre-dexed/debug/classes-17bfb3685537f46ed030ca5f15944073206da11b.jar
+/Users/xiaqiulei/Documents/code/github/MyObjSp/app/build/intermediates/pre-dexed/debug/classes-5fbc897f0e5cb500df271ba99f602b18389b184c.jar

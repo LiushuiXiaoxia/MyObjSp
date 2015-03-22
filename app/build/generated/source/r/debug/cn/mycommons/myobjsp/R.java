@@ -292,8 +292,6 @@ public final class R {
 		public static final int abc_text_size_subtitle_material_toolbar = 0x7f070022;
 		public static final int abc_text_size_title_material = 0x7f070023;
 		public static final int abc_text_size_title_material_toolbar = 0x7f070024;
-		public static final int activity_horizontal_margin = 0x7f070025;
-		public static final int activity_vertical_margin = 0x7f070026;
 		public static final int dialog_fixed_height_major = 0x7f070027;
 		public static final int dialog_fixed_height_minor = 0x7f070028;
 		public static final int dialog_fixed_width_major = 0x7f070029;
@@ -353,7 +351,6 @@ public final class R {
 		public static final int abc_textfield_search_activated_mtrl_alpha = 0x7f020030;
 		public static final int abc_textfield_search_default_mtrl_alpha = 0x7f020031;
 		public static final int abc_textfield_search_material = 0x7f020032;
-		public static final int ic_launcher = 0x7f020033;
 	}
 	public static final class id {
 		public static final int action_bar = 0x7f080031;
@@ -369,7 +366,6 @@ public final class R {
 		public static final int action_mode_bar = 0x7f08002e;
 		public static final int action_mode_bar_stub = 0x7f08002d;
 		public static final int action_mode_close_button = 0x7f080020;
-		public static final int action_settings = 0x7f08003f;
 		public static final int activity_chooser_view_content = 0x7f080021;
 		public static final int always = 0x7f080016;
 		public static final int beginning = 0x7f080013;
@@ -448,11 +444,7 @@ public final class R {
 		public static final int abc_search_dropdown_item_icons_2line = 0x7f030014;
 		public static final int abc_search_view = 0x7f030015;
 		public static final int abc_simple_dropdown_hint = 0x7f030016;
-		public static final int activity_main = 0x7f030017;
 		public static final int support_simple_spinner_dropdown_item = 0x7f030018;
-	}
-	public static final class menu {
-		public static final int menu_main = 0x7f0c0000;
 	}
 	public static final class string {
 		public static final int abc_action_bar_home_description = 0x7f0a0000;
@@ -471,9 +463,6 @@ public final class R {
 		public static final int abc_shareactionprovider_share_with = 0x7f0a000d;
 		public static final int abc_shareactionprovider_share_with_application = 0x7f0a000e;
 		public static final int abc_toolbar_collapse_description = 0x7f0a000f;
-		public static final int action_settings = 0x7f0a0010;
-		public static final int app_name = 0x7f0a0011;
-		public static final int hello_world = 0x7f0a0012;
 	}
 	public static final class style {
 		public static final int Base_TextAppearance_AppCompat = 0x7f0b0001;
